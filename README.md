@@ -161,6 +161,12 @@ Saat memilih pilihan 4,  Program akan meminta untuk menginput nomor pilihan game
 <img width="854" height="205" alt="Menu 5, break" src="https://github.com/user-attachments/assets/ebf01dc6-b20d-471a-8f46-e753dd7bb285" />
 Saat memilih Pilihan 5, Program akan melakukan "break" dan menghentikan program secara menyeluruh, serta me-reset semua list-list pada program tersebut.
 
+# Kondisi-kondisi tambahan - Belum ada game yang ditambahkan
+<img width="425" height="193" alt="Invalid menu 2-4, list kosong, belum  di isi" src="https://github.com/user-attachments/assets/816e0eb9-78e5-4b43-a36d-c6cbc7df2c1e" />
+Saat memilih pilihan antara 2-4, tetapi belum ada game yang ditambahkan pada list, maka program akan menampilkan ulang menu pilihan dan memberitahu bahwa belum ada game yang ditambahkan.
+# Kondisi-kondisi tambahan - menginput pilihan diluar dari angka (1-5) pada menu pilihan
+<img width="405" height="357" alt="Input menu invalid, dan perluangan atau looping" src="https://github.com/user-attachments/assets/1d06a97d-dd3a-4431-b062-7468d96d16fd" />
+Saat menginput pilihan diluar dari angka (1-5) pada menu pilihan, maka program akan menampilkan ulang menu pilihan dan memberikan pemberitahuan input invalid.
 
 
 
