@@ -159,6 +159,7 @@ Saat memilih pilihan 4,  Program akan meminta untuk menginput nomor pilihan game
 
 # Penjelasan Pilihan 5 
 <img width="854" height="205" alt="Menu 5, break" src="https://github.com/user-attachments/assets/ebf01dc6-b20d-471a-8f46-e753dd7bb285" />
+Saat memilih Pilihan 5, Program akan melakukan "break" dan menghentikan program secara menyeluruh, serta me-reset semua list-list pada program tersebut.
 
 
 
