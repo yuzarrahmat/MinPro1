@@ -150,7 +150,10 @@ Saat memilih pilihan 2, program akan menampilkan list[Game_List]
 <img width="602" height="340" alt="Menu 3 non angka" src="https://github.com/user-attachments/assets/529a2634-d2a6-40e8-9935-c5d76df45ca5" />
 <img width="613" height="351" alt="Menu 3 Invalid angka not in range" src="https://github.com/user-attachments/assets/dcd363d1-b5ce-45fb-b719-d6f3a8e6e700" />
 <img width="610" height="198" alt="Menu 3 Invalid, Seperti error progress pada menu 1" src="https://github.com/user-attachments/assets/78a398e7-7ca4-462b-8546-abbd70344fbd" />
+Saat memilih pilihan 3, Program akan meminta untuk menginput pilihan game mana yang akan di update progress nya sesuai urutan index (-1). jika input yang diisi salah(bukan angka/tidak dalam jangkauan total variabel dalam list), maka proses akan dibatalkan dan tampilan akan kembalikan ke menu pilihan.  jika input benar, akan diminta untuk mengisi input progress baru. Input Progress baru yang salah akan memiliki alur yang sama seperti saat menginput progress yang salah pada pilihan 1.
 
+ # Penjelasan Pilihan 4
+ 
 
 
 
