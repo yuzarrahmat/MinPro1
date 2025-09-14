@@ -150,11 +150,15 @@ Saat memilih pilihan 2, program akan menampilkan list[Game_List]
 <img width="602" height="340" alt="Menu 3 non angka" src="https://github.com/user-attachments/assets/529a2634-d2a6-40e8-9935-c5d76df45ca5" />
 <img width="613" height="351" alt="Menu 3 Invalid angka not in range" src="https://github.com/user-attachments/assets/dcd363d1-b5ce-45fb-b719-d6f3a8e6e700" />
 <img width="610" height="198" alt="Menu 3 Invalid, Seperti error progress pada menu 1" src="https://github.com/user-attachments/assets/78a398e7-7ca4-462b-8546-abbd70344fbd" />
-Saat memilih pilihan 3, Program akan meminta untuk menginput pilihan game mana yang akan di update progress nya sesuai urutan index (-1). jika input yang diisi salah(bukan angka/tidak dalam jangkauan total variabel dalam list), maka proses akan dibatalkan dan tampilan akan kembalikan ke menu pilihan.  jika input benar, akan diminta untuk mengisi input progress baru. Input Progress baru yang salah akan memiliki alur yang sama seperti saat menginput progress yang salah pada pilihan 1.
+Saat memilih pilihan 3, Program akan meminta untuk menginput nomor pilihan game mana yang akan di update progress nya sesuai urutan index (-1). jika input yang diisi salah(bukan angka/tidak dalam jangkauan total variabel dalam list), maka proses akan dibatalkan dan tampilan akan kembalikan ke menu pilihan.  jika input benar, akan diminta untuk mengisi input progress baru. Input Progress baru yang salah akan memiliki alur yang sama seperti saat menginput progress yang salah pada pilihan 1. Input progress baru yang benar akan menambah variael pada list sebagai "progress baru".
 
  # Penjelasan Pilihan 4
  <img width="598" height="351" alt="Menu 4 Valid hapus" src="https://github.com/user-attachments/assets/86444401-c1ec-4583-8b13-8186e7f3f830" />
 <img width="619" height="363" alt="Menu 4 Invalid, seperti error input pada menu 3" src="https://github.com/user-attachments/assets/c123ea9c-55c2-4fea-9c5a-024c78e2f10d" />
+Saat memilih pilihan 4,  Program akan meminta untuk menginput nomor pilihan game mana yang akan di hapus(.pop) sesuai urutan index (-1). jika input yang diisi salah(bukan angka/tidak dalam jangkauan total variabel dalam list), maka proses akan dibatalkan dan tampilan akan kembalikan ke menu pilihan. Jika input benar, maka program akan mengapus(.pop) game pada list [Game_List] dan menjadi bagian dari variabel pada list [game_terhapus]. 
+
+# Penjelasan Pilihan 5 
+<img width="854" height="205" alt="Menu 5, break" src="https://github.com/user-attachments/assets/ebf01dc6-b20d-471a-8f46-e753dd7bb285" />
 
 
 
