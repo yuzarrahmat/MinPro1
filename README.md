@@ -138,6 +138,11 @@ Ini adalah tampilan awal saat program dijalankan, yang mana adalah menu pilihan 
 <img width="466" height="228" alt="Menu 1 Valid progres" src="https://github.com/user-attachments/assets/3f4db82e-3136-4b5e-ab2f-00310faa5615" />
 <img width="427" height="225" alt="Menu 1 Invalid non angka progres" src="https://github.com/user-attachments/assets/5e99c21c-1243-4157-b8bc-882dff95d831" />
 <img width="386" height="237" alt="Menu 1 Invalid not in range progres" src="https://github.com/user-attachments/assets/a083ee68-9e39-47f7-8ff0-2b991bff83fd" />
+setelah menginput judul, input progress yang benar(%), judul akan langsung dimasukkan dalam list [Game_List] sebagai variabel dan tersimpan.
+Sedangkan, saat menginput progress nya salah, yaitu menggunakan selain angka dan tidak di antara 0-100, sistem akan membatalkan proses dan mengembalikan tampilan menjadi menu pilihan.
+
+# Penjelasan Pilihan 2
+
 
 
 
