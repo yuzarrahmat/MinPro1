@@ -130,9 +130,15 @@ if __name__ == "__main__":
 # Flowchart
 ![Flowchart sistem manajemen progress game (2)](https://github.com/user-attachments/assets/6230b795-0ae7-4c8d-b457-5a0d1597a5ea)
 
-# Penjelasan
+# Penjelasan Menu Pilihan
 <img width="1327" height="216" alt="Menu Pilihan" src="https://github.com/user-attachments/assets/d73faf69-87f5-4f19-aff5-7b40e1dccc9a" />
-1. Ini adalah tampilan awal saat program dijalankan, yang mana adalah menu pilihan utama dengan urutan 1-5 serta memiliki fungsi masing-masing sesuai dengan yang tertulis.
+Ini adalah tampilan awal saat program dijalankan, yang mana adalah menu pilihan utama dengan urutan 1-5 serta memiliki fungsi masing-masing sesuai dengan yang tertulis.
 
-<img width="466" height="228" alt="Menu 1 Valid progres" src="https://github.com/user-attachments/assets/57fd1339-3639-4ef7-82bd-645a2f16b10f" />
+# Penjelasan Pilihan 1
+<img width="466" height="228" alt="Menu 1 Valid progres" src="https://github.com/user-attachments/assets/3f4db82e-3136-4b5e-ab2f-00310faa5615" />
+<img width="427" height="225" alt="Menu 1 Invalid non angka progres" src="https://github.com/user-attachments/assets/5e99c21c-1243-4157-b8bc-882dff95d831" />
+<img width="386" height="237" alt="Menu 1 Invalid not in range progres" src="https://github.com/user-attachments/assets/a083ee68-9e39-47f7-8ff0-2b991bff83fd" />
+
+
+
 
