@@ -153,7 +153,9 @@ Saat memilih pilihan 2, program akan menampilkan list[Game_List]
 Saat memilih pilihan 3, Program akan meminta untuk menginput pilihan game mana yang akan di update progress nya sesuai urutan index (-1). jika input yang diisi salah(bukan angka/tidak dalam jangkauan total variabel dalam list), maka proses akan dibatalkan dan tampilan akan kembalikan ke menu pilihan.  jika input benar, akan diminta untuk mengisi input progress baru. Input Progress baru yang salah akan memiliki alur yang sama seperti saat menginput progress yang salah pada pilihan 1.
 
  # Penjelasan Pilihan 4
- 
+ <img width="598" height="351" alt="Menu 4 Valid hapus" src="https://github.com/user-attachments/assets/86444401-c1ec-4583-8b13-8186e7f3f830" />
+<img width="619" height="363" alt="Menu 4 Invalid, seperti error input pada menu 3" src="https://github.com/user-attachments/assets/c123ea9c-55c2-4fea-9c5a-024c78e2f10d" />
+
 
 
 
